@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<a href="https://t.me/Gorilla_Glass_YAA" target="_blank" rel="noreferrer"> 
+     <img src="https://github.com/J-YAA-i50-L/J-YAA-i50-L/blob/main/tg.svg" title="tg" alt="tg" width="60" height="60"/>
+  </a> 
 ### Languages:
 <p align="left"> 
   &nbsp;&nbsp;
