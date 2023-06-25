@@ -6,17 +6,36 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" alt="python" width="60" height="60"/>
   </a> &nbsp;&nbsp;
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+  <a href="[https://www.python.org/](https://isocpp.org/)" target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="cpp" width="60" height="60"/>
   </a> &nbsp;&nbsp;
-  
-  
- 
+    <a href="https://ru.wikipedia.org/wiki/Arduino#Язык_программирования" target="_blank" rel="noreferrer"> 
+     <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino C" alt="cpp" width="60" height="60"/>
+  </a> &nbsp;&nbsp;
 </p>
 
 
-### 
+### Libraries
+<p align="left"> 
+  &nbsp;&nbsp;
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+     <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="opencv" width="60" height="60"/>
+  </a> &nbsp;&nbsp;
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="60" height="60"/>
+  </a> &nbsp;&nbsp;
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+     <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" alt="qt" width="60" height="60"/>
+  </a> &nbsp;&nbsp;
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite" alt="sqlite" width="60" height="60"/>
+  </a> &nbsp;&nbsp;
+      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="sqlite" alt="sqlite" width="60" height="60"/>
+  </a> &nbsp;&nbsp;
+</p>
 
+<!--
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -33,7 +52,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
-
 ### Tools:
 <p align="left"> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/linux.svg" alt="linux" width="40" height="40"/> </a> 
@@ -47,3 +65,4 @@
 <a href="https://www.gitkraken.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/gitkraken.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/figma.svg" alt="figma" width="30" height="40"/> </a> 
 </p>
+--!>
