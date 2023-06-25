@@ -20,7 +20,7 @@
 </p>
 
 
-### Libraries
+### Libraries:
 <p align="left"> 
   &nbsp;&nbsp;
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
