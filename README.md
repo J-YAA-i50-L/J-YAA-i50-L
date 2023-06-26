@@ -40,6 +40,8 @@
   </a> &nbsp;&nbsp;
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-YAA-i50-L&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -71,3 +73,4 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/figma.svg" alt="figma" width="30" height="40"/> </a> 
 </p>
 --!>
+
