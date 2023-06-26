@@ -1,4 +1,5 @@
-# Hello, I'm Anton. 👋
+
+<h1 align="center"> Hi there, I'm Anton. 👋</h1>
 <p align="left"> 
   <a href="https://t.me/Gorilla_Glass_YAA" target="_blank" rel="noreferrer"> 
      <img src="https://github.com/J-YAA-i50-L/J-YAA-i50-L/blob/main/tg.svg" title="tg" alt="tg" width="60" height="60"/>
@@ -41,7 +42,7 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-YAA-i50-L&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-YAA-i50-L)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 <div>
